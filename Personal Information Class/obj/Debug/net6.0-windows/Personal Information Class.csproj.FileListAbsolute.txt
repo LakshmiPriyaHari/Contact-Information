@@ -1,0 +1,69 @@
+C:\C# Programs\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.exe
+C:\C# Programs\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.deps.json
+C:\C# Programs\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.runtimeconfig.json
+C:\C# Programs\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.dll
+C:\C# Programs\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.pdb
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.csproj.AssemblyReference.cache
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\DetailWindow.g.cs
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\App.g.cs
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class_MarkupCompile.cache
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class_MarkupCompile.lref
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\DetailWindow.baml
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\MainWindow.baml
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.g.resources
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.AssemblyInfoInputs.cache
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.AssemblyInfo.cs
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.csproj.CoreCompileInputs.cache
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.dll
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\refint\Personal Information Class.dll
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.pdb
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.genruntimeconfig.cache
+C:\C# Programs\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\ref\Personal Information Class.dll
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.exe
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.deps.json
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.runtimeconfig.json
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.dll
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.pdb
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.csproj.AssemblyReference.cache
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\DetailWindow.g.cs
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class_MarkupCompile.cache
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class_MarkupCompile.lref
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\DetailWindow.baml
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.g.resources
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.AssemblyInfoInputs.cache
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.AssemblyInfo.cs
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.csproj.CoreCompileInputs.cache
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.dll
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\refint\Personal Information Class.dll
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.pdb
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.genruntimeconfig.cache
+C:\Users\arjun\Downloads\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\ref\Personal Information Class.dll
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.exe
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.deps.json
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.runtimeconfig.json
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.dll
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\bin\Debug\net6.0-windows\Personal Information Class.pdb
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.csproj.AssemblyReference.cache
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\DetailWindow.g.cs
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class_MarkupCompile.cache
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class_MarkupCompile.lref
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\DetailWindow.baml
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.g.resources
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.AssemblyInfoInputs.cache
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.AssemblyInfo.cs
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.csproj.CoreCompileInputs.cache
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.dll
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\refint\Personal Information Class.dll
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.pdb
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\Personal Information Class.genruntimeconfig.cache
+C:\Users\arjun\OneDrive\Documents\assihnment8\Personal Information Class_G9\Personal Information Class\Personal Information Class\obj\Debug\net6.0-windows\ref\Personal Information Class.dll
